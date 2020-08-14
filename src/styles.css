@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.t-cell-1 {
+  width: 60px;
+  min-width: 60px;
+}
+
+.t-cell-2 {
+  width: 150px;
+  min-width: 150px;
+}
+.t-cell-3 {
+  width: 120px;
+  min-width: 120px;
+}
+.t-cell-4 {
+  width: 120px;
+  min-width: 120px;
+}
+.t-cell-5 {
+  width: 150px;
+  min-width: 150px;
+}
